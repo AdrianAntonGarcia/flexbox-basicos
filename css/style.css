@@ -94,3 +94,10 @@ h2 {
   height: 100rem;
   justify-content: flex-end;
 }
+
+/* 5 */
+.d-flex-5 {
+  display: flex;
+  height: 70rem;
+  align-items: flex-end;
+}
