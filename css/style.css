@@ -86,3 +86,11 @@ h2 {
   display: flex;
   justify-content: center;
 }
+
+/* 4 */
+.d-flex-4 {
+  display: flex;
+  flex-direction: column;
+  height: 100rem;
+  justify-content: flex-end;
+}
