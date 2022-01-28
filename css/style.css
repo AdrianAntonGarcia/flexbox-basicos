@@ -157,3 +157,17 @@ h2 {
 .d-flex-10 .box {
   flex-basis: 33%;
 }
+
+/* 11 */
+
+.d-flex-11 {
+  display: flex;
+}
+
+.d-flex-11 .box {
+  flex-grow: 1;
+}
+
+.d-flex-11 .box:nth-child(1) {
+  flex-grow: 2;
+}
